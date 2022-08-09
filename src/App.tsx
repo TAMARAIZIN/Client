@@ -1,10 +1,10 @@
 import React from 'react';
-import User from './Components/User'
+import Admin from './Components/Admin'
 
 function App() {
   return (
     <div className="App">
-      <User />
+      <Admin />
     </div>
   );
 }
